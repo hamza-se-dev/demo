@@ -1,4 +1,4 @@
 # demo
-this is my first repository.
+it is my first repository.
 <br>
 Author: Ameer Hamza
